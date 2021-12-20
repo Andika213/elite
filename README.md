@@ -1,17 +1,12 @@
 # ✭ ELITE CRACK
-### Dibuat Dengan ❤️ Oleh Dapunta & Rizal
+### 
 ```
 Author:
-- Dapunta Khurayra X
-- Muhamad Rizal Fiansyah Id
+- dini
+-
 
 Terimakasih Kepada :
-- Angga Kurniawan - Yayan XD
-- Boy Hamzah      - Latip Harkat
-- Zacky Tricker   - Sutan Ubay
-- Rizky Dev       - Iqbal Dev
-- Aap Afandi      - Fallen
-- Rizky Leviathan - Hanifan
+- arie irawan- spawn
 ```
 ### ⇨  Fitur Login
 ```
